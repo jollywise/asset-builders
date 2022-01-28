@@ -1,5 +1,5 @@
 {
-  "name": "Asset builders",
+  "name": "asset-builders",
   "version": "1.0.0",
   "description": "NPM dependencies for building assets",
   "dependencies": {
