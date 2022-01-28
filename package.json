@@ -1,0 +1,17 @@
+{
+  "name": "Asset builders",
+  "version": "1.0.0",
+  "description": "NPM dependencies for building assets",
+  "dependencies": {
+    "audiosprite": "^0.7.1",
+	"aws-sdk": "^2.962.0",
+	"csv-parser": "^3.0.0",
+	"fontmin": "^0.9.9",
+	"imagemin": "^7.0.1",
+	"imagemin-jpegtran": "^6.0.0",
+	"imagemin-optipng": "^7.1.0",
+	"imagemin-pngquant": "^8.0.0",
+	"md5": "^2.2.1",
+	"md5-file": "^5.0.0",
+  }
+}
